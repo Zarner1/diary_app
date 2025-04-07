@@ -3,6 +3,11 @@
         Esat Küçe-030122036
         Ritvan Angous-030122069
         Muhammed Sait Yıldırım-030122026
+		
+    Görev Dağılımı:
+	Esat: UI Tasarlama, Kodlama
+	Ritvan: Veritabanı Bağlantıları, Kodlama
+	Sait: Proje taslağı oluşturma, Asset'leri bulmak, Kodlama
     
     Proje Amacı:
         Bu proje, kullanıcıların email ve şifre ile giriş yaparak günlüklerini yazabilecekleri bir uygulamadır.
