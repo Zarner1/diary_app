@@ -47,9 +47,15 @@
     Uygulama Mimarisi:
         Register Ekranı: Yeni bir kullanıcı oluşturmak için kullanılır.
         Login Ekranı: Kullanıcı email ve şifresini girer.
-        Günlük Ekranı: Kullanıcı günlük yazabilir, geçmiş günlüklerine erişebilir.
-	    Drawer: Kullanıcı yeni günlük ekleyebilir, eski günlüklerini okuyabilir, 
-	    geliştirilmekte olan ayarlar ekranına erişebilir ve uygulamadan çıkış yapabilir
+        Günlük Ekranı: Kullanıcı günlük yazabilir ve kaydedebilir
+	Günlük Listeleme Ekranı: Kullanıcı eski günlüklerine erişebilir
+	Drawer: Kullanıcı yeni günlük ekleyebilir, eski günlüklerini okuyabilir, 
+	   	geliştirilmekte olan ayarlar ekranına erişebilir ve uygulamadan çıkış yapabilir.
+     		Ayrıca uygulama logosunu bir API ile burada tutulur.
+     	Diary_entry: Günlüklerin giriş formatını tutan sayfa
+      	User: Kullanıcıların bilgilerinin formatını tutan sayfa
+        Auth_Service: Kullanıcıların giriş ve kayıt bilgilerinin doğruluğu sağlar
+        Diary_Service: Günlüklerin kaydının tutulmasını sağlar
 
     Geliştirici Notları:
         Bu uygulama, Flutter ve Dart kullanılarak geliştirilmiştir.
